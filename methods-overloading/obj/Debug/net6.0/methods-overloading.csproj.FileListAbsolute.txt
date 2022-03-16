@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/methods-overloading/bin/Debug/net6.0/methods-overloading
+/home/haroldfinch/Documents/csharp101/methods-overloading/bin/Debug/net6.0/methods-overloading.deps.json
+/home/haroldfinch/Documents/csharp101/methods-overloading/bin/Debug/net6.0/methods-overloading.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/methods-overloading/bin/Debug/net6.0/methods-overloading.dll
+/home/haroldfinch/Documents/csharp101/methods-overloading/bin/Debug/net6.0/ref/methods-overloading.dll
+/home/haroldfinch/Documents/csharp101/methods-overloading/bin/Debug/net6.0/methods-overloading.pdb
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.dll
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/ref/methods-overloading.dll
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.pdb
+/home/haroldfinch/Documents/csharp101/methods-overloading/obj/Debug/net6.0/methods-overloading.genruntimeconfig.cache

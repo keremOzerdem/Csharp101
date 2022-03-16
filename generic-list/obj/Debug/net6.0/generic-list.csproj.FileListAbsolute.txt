@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/generic-list/bin/Debug/net6.0/generic-list
+/home/haroldfinch/Documents/csharp101/generic-list/bin/Debug/net6.0/generic-list.deps.json
+/home/haroldfinch/Documents/csharp101/generic-list/bin/Debug/net6.0/generic-list.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/generic-list/bin/Debug/net6.0/generic-list.dll
+/home/haroldfinch/Documents/csharp101/generic-list/bin/Debug/net6.0/ref/generic-list.dll
+/home/haroldfinch/Documents/csharp101/generic-list/bin/Debug/net6.0/generic-list.pdb
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.dll
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/ref/generic-list.dll
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.pdb
+/home/haroldfinch/Documents/csharp101/generic-list/obj/Debug/net6.0/generic-list.genruntimeconfig.cache

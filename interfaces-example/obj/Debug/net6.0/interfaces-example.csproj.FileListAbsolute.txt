@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/interfaces-example/bin/Debug/net6.0/interfaces-example
+/home/haroldfinch/Documents/csharp101/interfaces-example/bin/Debug/net6.0/interfaces-example.deps.json
+/home/haroldfinch/Documents/csharp101/interfaces-example/bin/Debug/net6.0/interfaces-example.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/interfaces-example/bin/Debug/net6.0/interfaces-example.dll
+/home/haroldfinch/Documents/csharp101/interfaces-example/bin/Debug/net6.0/ref/interfaces-example.dll
+/home/haroldfinch/Documents/csharp101/interfaces-example/bin/Debug/net6.0/interfaces-example.pdb
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.dll
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/ref/interfaces-example.dll
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.pdb
+/home/haroldfinch/Documents/csharp101/interfaces-example/obj/Debug/net6.0/interfaces-example.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/switch-case/bin/Debug/net6.0/switch-case
+/home/haroldfinch/Documents/csharp101/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/home/haroldfinch/Documents/csharp101/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/switch-case/bin/Debug/net6.0/switch-case.dll
+/home/haroldfinch/Documents/csharp101/switch-case/bin/Debug/net6.0/ref/switch-case.dll
+/home/haroldfinch/Documents/csharp101/switch-case/bin/Debug/net6.0/switch-case.pdb
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.dll
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/ref/switch-case.dll
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.pdb
+/home/haroldfinch/Documents/csharp101/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache

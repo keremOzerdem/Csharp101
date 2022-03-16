@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/string-other-methods/bin/Debug/net6.0/string-other-methods
+/home/haroldfinch/Documents/csharp101/string-other-methods/bin/Debug/net6.0/string-other-methods.deps.json
+/home/haroldfinch/Documents/csharp101/string-other-methods/bin/Debug/net6.0/string-other-methods.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/string-other-methods/bin/Debug/net6.0/string-other-methods.dll
+/home/haroldfinch/Documents/csharp101/string-other-methods/bin/Debug/net6.0/ref/string-other-methods.dll
+/home/haroldfinch/Documents/csharp101/string-other-methods/bin/Debug/net6.0/string-other-methods.pdb
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.dll
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/ref/string-other-methods.dll
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.pdb
+/home/haroldfinch/Documents/csharp101/string-other-methods/obj/Debug/net6.0/string-other-methods.genruntimeconfig.cache

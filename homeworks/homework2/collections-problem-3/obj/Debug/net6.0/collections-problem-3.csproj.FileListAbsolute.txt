@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/bin/Debug/net6.0/collections-problem-3
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/bin/Debug/net6.0/collections-problem-3.deps.json
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/bin/Debug/net6.0/collections-problem-3.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/bin/Debug/net6.0/collections-problem-3.dll
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/bin/Debug/net6.0/ref/collections-problem-3.dll
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/bin/Debug/net6.0/collections-problem-3.pdb
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.dll
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/ref/collections-problem-3.dll
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.pdb
+/home/haroldfinch/Documents/csharp101/homework2/collections-problem-3/obj/Debug/net6.0/collections-problem-3.genruntimeconfig.cache

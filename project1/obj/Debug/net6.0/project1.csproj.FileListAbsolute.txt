@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/project1/bin/Debug/net6.0/project1
+/home/haroldfinch/Documents/csharp101/project1/bin/Debug/net6.0/project1.deps.json
+/home/haroldfinch/Documents/csharp101/project1/bin/Debug/net6.0/project1.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/project1/bin/Debug/net6.0/project1.dll
+/home/haroldfinch/Documents/csharp101/project1/bin/Debug/net6.0/ref/project1.dll
+/home/haroldfinch/Documents/csharp101/project1/bin/Debug/net6.0/project1.pdb
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.dll
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/ref/project1.dll
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.pdb
+/home/haroldfinch/Documents/csharp101/project1/obj/Debug/net6.0/project1.genruntimeconfig.cache

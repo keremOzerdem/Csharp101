@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/exception-handling/bin/Debug/net6.0/exception-handling
+/home/haroldfinch/Documents/csharp101/exception-handling/bin/Debug/net6.0/exception-handling.deps.json
+/home/haroldfinch/Documents/csharp101/exception-handling/bin/Debug/net6.0/exception-handling.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/exception-handling/bin/Debug/net6.0/exception-handling.dll
+/home/haroldfinch/Documents/csharp101/exception-handling/bin/Debug/net6.0/ref/exception-handling.dll
+/home/haroldfinch/Documents/csharp101/exception-handling/bin/Debug/net6.0/exception-handling.pdb
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.dll
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/ref/exception-handling.dll
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.pdb
+/home/haroldfinch/Documents/csharp101/exception-handling/obj/Debug/net6.0/exception-handling.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/bin/Debug/net6.0/staticClassAndMembers
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/bin/Debug/net6.0/staticClassAndMembers.deps.json
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/bin/Debug/net6.0/staticClassAndMembers.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/bin/Debug/net6.0/staticClassAndMembers.dll
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/bin/Debug/net6.0/ref/staticClassAndMembers.dll
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/bin/Debug/net6.0/staticClassAndMembers.pdb
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.dll
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/ref/staticClassAndMembers.dll
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.pdb
+/home/haroldfinch/Documents/csharp101/staticClassAndMembers/obj/Debug/net6.0/staticClassAndMembers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/encapsulation/bin/Debug/net6.0/encapsulation
+/home/haroldfinch/Documents/csharp101/encapsulation/bin/Debug/net6.0/encapsulation.deps.json
+/home/haroldfinch/Documents/csharp101/encapsulation/bin/Debug/net6.0/encapsulation.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/encapsulation/bin/Debug/net6.0/encapsulation.dll
+/home/haroldfinch/Documents/csharp101/encapsulation/bin/Debug/net6.0/ref/encapsulation.dll
+/home/haroldfinch/Documents/csharp101/encapsulation/bin/Debug/net6.0/encapsulation.pdb
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.dll
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/ref/encapsulation.dll
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.pdb
+/home/haroldfinch/Documents/csharp101/encapsulation/obj/Debug/net6.0/encapsulation.genruntimeconfig.cache

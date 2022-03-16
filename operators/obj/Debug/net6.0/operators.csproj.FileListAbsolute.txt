@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/operators/bin/Debug/net6.0/operators
+/home/haroldfinch/Documents/csharp101/operators/bin/Debug/net6.0/operators.deps.json
+/home/haroldfinch/Documents/csharp101/operators/bin/Debug/net6.0/operators.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/operators/bin/Debug/net6.0/operators.dll
+/home/haroldfinch/Documents/csharp101/operators/bin/Debug/net6.0/ref/operators.dll
+/home/haroldfinch/Documents/csharp101/operators/bin/Debug/net6.0/operators.pdb
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.dll
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/ref/operators.dll
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.pdb
+/home/haroldfinch/Documents/csharp101/operators/obj/Debug/net6.0/operators.genruntimeconfig.cache

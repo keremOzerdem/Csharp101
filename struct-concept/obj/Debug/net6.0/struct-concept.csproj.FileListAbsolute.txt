@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/struct-concept/bin/Debug/net6.0/struct-concept
+/home/haroldfinch/Documents/csharp101/struct-concept/bin/Debug/net6.0/struct-concept.deps.json
+/home/haroldfinch/Documents/csharp101/struct-concept/bin/Debug/net6.0/struct-concept.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/struct-concept/bin/Debug/net6.0/struct-concept.dll
+/home/haroldfinch/Documents/csharp101/struct-concept/bin/Debug/net6.0/ref/struct-concept.dll
+/home/haroldfinch/Documents/csharp101/struct-concept/bin/Debug/net6.0/struct-concept.pdb
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.dll
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/ref/struct-concept.dll
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.pdb
+/home/haroldfinch/Documents/csharp101/struct-concept/obj/Debug/net6.0/struct-concept.genruntimeconfig.cache

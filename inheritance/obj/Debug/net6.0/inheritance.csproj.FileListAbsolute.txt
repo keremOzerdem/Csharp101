@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/inheritance/bin/Debug/net6.0/inheritance
+/home/haroldfinch/Documents/csharp101/inheritance/bin/Debug/net6.0/inheritance.deps.json
+/home/haroldfinch/Documents/csharp101/inheritance/bin/Debug/net6.0/inheritance.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/inheritance/bin/Debug/net6.0/inheritance.dll
+/home/haroldfinch/Documents/csharp101/inheritance/bin/Debug/net6.0/ref/inheritance.dll
+/home/haroldfinch/Documents/csharp101/inheritance/bin/Debug/net6.0/inheritance.pdb
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.dll
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/ref/inheritance.dll
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.pdb
+/home/haroldfinch/Documents/csharp101/inheritance/obj/Debug/net6.0/inheritance.genruntimeconfig.cache

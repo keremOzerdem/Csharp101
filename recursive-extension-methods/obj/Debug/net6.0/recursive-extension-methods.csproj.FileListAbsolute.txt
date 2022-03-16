@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/bin/Debug/net6.0/recursive-extension-methods
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/bin/Debug/net6.0/recursive-extension-methods.deps.json
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/bin/Debug/net6.0/recursive-extension-methods.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/bin/Debug/net6.0/recursive-extension-methods.dll
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/bin/Debug/net6.0/ref/recursive-extension-methods.dll
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/bin/Debug/net6.0/recursive-extension-methods.pdb
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.dll
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/ref/recursive-extension-methods.dll
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.pdb
+/home/haroldfinch/Documents/csharp101/recursive-extension-methods/obj/Debug/net6.0/recursive-extension-methods.genruntimeconfig.cache

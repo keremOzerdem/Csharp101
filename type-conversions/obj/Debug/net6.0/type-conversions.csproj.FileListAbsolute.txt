@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/type-conversions/bin/Debug/net6.0/type-conversions
+/home/haroldfinch/Documents/csharp101/type-conversions/bin/Debug/net6.0/type-conversions.deps.json
+/home/haroldfinch/Documents/csharp101/type-conversions/bin/Debug/net6.0/type-conversions.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/type-conversions/bin/Debug/net6.0/type-conversions.dll
+/home/haroldfinch/Documents/csharp101/type-conversions/bin/Debug/net6.0/ref/type-conversions.dll
+/home/haroldfinch/Documents/csharp101/type-conversions/bin/Debug/net6.0/type-conversions.pdb
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.dll
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/ref/type-conversions.dll
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.pdb
+/home/haroldfinch/Documents/csharp101/type-conversions/obj/Debug/net6.0/type-conversions.genruntimeconfig.cache

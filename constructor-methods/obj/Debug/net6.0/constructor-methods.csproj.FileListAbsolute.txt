@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/constructor-methods/bin/Debug/net6.0/constructor-methods
+/home/haroldfinch/Documents/csharp101/constructor-methods/bin/Debug/net6.0/constructor-methods.deps.json
+/home/haroldfinch/Documents/csharp101/constructor-methods/bin/Debug/net6.0/constructor-methods.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/constructor-methods/bin/Debug/net6.0/constructor-methods.dll
+/home/haroldfinch/Documents/csharp101/constructor-methods/bin/Debug/net6.0/ref/constructor-methods.dll
+/home/haroldfinch/Documents/csharp101/constructor-methods/bin/Debug/net6.0/constructor-methods.pdb
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.dll
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/ref/constructor-methods.dll
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.pdb
+/home/haroldfinch/Documents/csharp101/constructor-methods/obj/Debug/net6.0/constructor-methods.genruntimeconfig.cache

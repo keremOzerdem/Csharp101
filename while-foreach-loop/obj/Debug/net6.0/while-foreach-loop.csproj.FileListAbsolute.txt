@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/bin/Debug/net6.0/while-foreach-loop
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/bin/Debug/net6.0/while-foreach-loop.deps.json
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/bin/Debug/net6.0/while-foreach-loop.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/bin/Debug/net6.0/while-foreach-loop.dll
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/bin/Debug/net6.0/ref/while-foreach-loop.dll
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/bin/Debug/net6.0/while-foreach-loop.pdb
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.dll
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/ref/while-foreach-loop.dll
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.pdb
+/home/haroldfinch/Documents/csharp101/while-foreach-loop/obj/Debug/net6.0/while-foreach-loop.genruntimeconfig.cache

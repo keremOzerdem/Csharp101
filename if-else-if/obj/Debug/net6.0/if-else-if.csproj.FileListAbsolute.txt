@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/if-else-if/bin/Debug/net6.0/if-else-if
+/home/haroldfinch/Documents/csharp101/if-else-if/bin/Debug/net6.0/if-else-if.deps.json
+/home/haroldfinch/Documents/csharp101/if-else-if/bin/Debug/net6.0/if-else-if.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/if-else-if/bin/Debug/net6.0/if-else-if.dll
+/home/haroldfinch/Documents/csharp101/if-else-if/bin/Debug/net6.0/ref/if-else-if.dll
+/home/haroldfinch/Documents/csharp101/if-else-if/bin/Debug/net6.0/if-else-if.pdb
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.dll
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/ref/if-else-if.dll
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.pdb
+/home/haroldfinch/Documents/csharp101/if-else-if/obj/Debug/net6.0/if-else-if.genruntimeconfig.cache

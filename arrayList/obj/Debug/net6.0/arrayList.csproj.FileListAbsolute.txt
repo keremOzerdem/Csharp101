@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/arrayList/bin/Debug/net6.0/arrayList
+/home/haroldfinch/Documents/csharp101/arrayList/bin/Debug/net6.0/arrayList.deps.json
+/home/haroldfinch/Documents/csharp101/arrayList/bin/Debug/net6.0/arrayList.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/arrayList/bin/Debug/net6.0/arrayList.dll
+/home/haroldfinch/Documents/csharp101/arrayList/bin/Debug/net6.0/ref/arrayList.dll
+/home/haroldfinch/Documents/csharp101/arrayList/bin/Debug/net6.0/arrayList.pdb
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.dll
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/ref/arrayList.dll
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.pdb
+/home/haroldfinch/Documents/csharp101/arrayList/obj/Debug/net6.0/arrayList.genruntimeconfig.cache

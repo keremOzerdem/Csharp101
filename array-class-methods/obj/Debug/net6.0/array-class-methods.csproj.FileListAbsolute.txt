@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/array-class-methods/bin/Debug/net6.0/array-class-methods
+/home/haroldfinch/Documents/csharp101/array-class-methods/bin/Debug/net6.0/array-class-methods.deps.json
+/home/haroldfinch/Documents/csharp101/array-class-methods/bin/Debug/net6.0/array-class-methods.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/array-class-methods/bin/Debug/net6.0/array-class-methods.dll
+/home/haroldfinch/Documents/csharp101/array-class-methods/bin/Debug/net6.0/ref/array-class-methods.dll
+/home/haroldfinch/Documents/csharp101/array-class-methods/bin/Debug/net6.0/array-class-methods.pdb
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.dll
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/ref/array-class-methods.dll
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.pdb
+/home/haroldfinch/Documents/csharp101/array-class-methods/obj/Debug/net6.0/array-class-methods.genruntimeconfig.cache

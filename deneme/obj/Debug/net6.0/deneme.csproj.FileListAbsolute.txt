@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/deneme/bin/Debug/net6.0/deneme
+/home/haroldfinch/Documents/csharp101/deneme/bin/Debug/net6.0/deneme.deps.json
+/home/haroldfinch/Documents/csharp101/deneme/bin/Debug/net6.0/deneme.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/deneme/bin/Debug/net6.0/deneme.dll
+/home/haroldfinch/Documents/csharp101/deneme/bin/Debug/net6.0/ref/deneme.dll
+/home/haroldfinch/Documents/csharp101/deneme/bin/Debug/net6.0/deneme.pdb
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.dll
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/ref/deneme.dll
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.pdb
+/home/haroldfinch/Documents/csharp101/deneme/obj/Debug/net6.0/deneme.genruntimeconfig.cache

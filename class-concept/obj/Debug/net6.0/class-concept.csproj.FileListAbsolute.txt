@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/class-concept/bin/Debug/net6.0/class-concept
+/home/haroldfinch/Documents/csharp101/class-concept/bin/Debug/net6.0/class-concept.deps.json
+/home/haroldfinch/Documents/csharp101/class-concept/bin/Debug/net6.0/class-concept.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/class-concept/bin/Debug/net6.0/class-concept.dll
+/home/haroldfinch/Documents/csharp101/class-concept/bin/Debug/net6.0/ref/class-concept.dll
+/home/haroldfinch/Documents/csharp101/class-concept/bin/Debug/net6.0/class-concept.pdb
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.dll
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/ref/class-concept.dll
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.pdb
+/home/haroldfinch/Documents/csharp101/class-concept/obj/Debug/net6.0/class-concept.genruntimeconfig.cache

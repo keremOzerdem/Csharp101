@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/bin/Debug/net6.0/datetimeAndMath-other-methods
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/bin/Debug/net6.0/datetimeAndMath-other-methods.deps.json
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/bin/Debug/net6.0/datetimeAndMath-other-methods.runtimeconfig.json
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/bin/Debug/net6.0/datetimeAndMath-other-methods.dll
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/bin/Debug/net6.0/ref/datetimeAndMath-other-methods.dll
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/bin/Debug/net6.0/datetimeAndMath-other-methods.pdb
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.AssemblyInfo.cs
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.dll
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/ref/datetimeAndMath-other-methods.dll
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.pdb
+/home/haroldfinch/Documents/csharp101/datetimeAndMath-other-methods/obj/Debug/net6.0/datetimeAndMath-other-methods.genruntimeconfig.cache
